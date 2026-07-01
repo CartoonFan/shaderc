@@ -11,7 +11,7 @@ vars = {
   'googletest_revision': '973323ed64a05b128418e7eab67016db5ba049df',
   're2_revision': '972a15cedd008d846f1a39b2e88ce48d7f166cbd',
   'spirv_headers_revision': 'daa093dd29aab8cbb6562b808370562f56e399fb',
-  'spirv_tools_revision': 'd5bbf95d87dd6d2694fbf09acfb42a00c93575e8',
+  'spirv_tools_revision': 'cbcd15add9bac4c652203f05f159a13cb7cd652d',
 }
 deps = {
   'third_party/abseil_cpp':
